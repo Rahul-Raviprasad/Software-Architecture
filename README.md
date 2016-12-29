@@ -104,6 +104,9 @@ Tradeoff: Ad hoc query ease
   V2: SQL expression
   V3: Map-Reduce program
 
+## 3-Tier system
+Most important Architecture to know.
+
 
 ## References
 
