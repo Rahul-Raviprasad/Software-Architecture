@@ -107,7 +107,22 @@ Tradeoff: Ad hoc query ease
 ## 3-Tier system
 Most important Architecture to know.
 
+## Guiderails (constraints)
+Developers voluntarily constrain a system
+it counter intuitive
+ensure what a system does not do.
 
+##Architectural styles
+Example
+  * Big ball of mud
+  * client server
+  * pipe and filter
+  * Map-Reduce
+  * N- tier
+  * Layered
+  * ....
+
+  
 ## References
 
 A lot has been taken from George Fairbanks Lecture and notes
