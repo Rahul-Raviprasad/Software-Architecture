@@ -4,7 +4,7 @@ Here we are going to explore multiple versions for different types of projects
 
 ## Comments on Technical Design Document
 
-The document is seen as a contradiction,
+The document is seen as a contradiction, Technical design is generally required in a waterfall development. It's importance and use in modern development is debatable.
 
 # TDD for Game projects
 
