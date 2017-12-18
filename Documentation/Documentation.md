@@ -1,3 +1,10 @@
+# Documentation
+
+1. I personally believe documentation is very important if you code is expected to run/support for a long time.
+2. The documentation should be either done in a platform that allows you to continuously edit, make comments etc.
+3. If you can't have a live way to handle like in confluence etc, and it is going to be a word document then ensure versioning is done through a version control like git, mercurial etc. This helps in understanding why certain design decision were taken.
+So a new person doesn't make the same mistake the team has already been through.
+
 ## Some Comments on Documentation
 
 Nowadays, most web applications are developed by teams that have adopted an agile development method, like Scrum or Kanban. These methods do not prescribe the production of design documentation, which may give people the impression that such documentation is not needed. Furthermore, the Agile Manifesto says:
