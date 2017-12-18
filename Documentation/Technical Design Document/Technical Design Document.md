@@ -19,7 +19,7 @@ last updated date
   1.1 Project : this should be like an elevator pitch.
   1.2 Technical: on tech stack like using service portal and angular to build UI app.
 
-  note : you can include the cost in ruppees and dollars as well
+  Note : you can include the cost in rupees and dollars as well
 
 2. Hardware and software
   2.1 2D software - list out all the softwares used for which purpose(see the section below)
@@ -57,8 +57,15 @@ List out the levels and world maps for each one.
 #### 2D Software
 Mention any detail if required
 
-| Software Title     | Functionality     | Cost    |
-| :----------------- | :---------------- | :-------|
-|   GIMP             | 2D Design         | Free    |
+| Software Title     | Functionality     | Cost     |
+| :----------------- | :---------------- | :------- |
+|   GIMP             | 2D Design         | Free     |
 
 #### 3D Software
+
+
+## TDD for Angular Web Apps
+At the top level, an AngularJS application is divided in modules, so naturally, you start the design by creating a diagram depicting the modules. You don’t have to design the whole architecture in one go. As the project progresses, you will add new modules.
+
+Sources:
+1. http://www.admiraalit.nl/admiraal/Technical-Design-For-AngularJS-Apps.pdf

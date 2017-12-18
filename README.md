@@ -122,7 +122,10 @@ Example
   * Layered
   * ....
 
-  
+
+## Note
+I have taken this information from many sources, I have also tried my level best to give credit or mention them in references or sources, either on this readme file or the relevant file. Apart from my own thoughts on these topics, most of this is also collected from the learning I get from my peer and seniors. I cannot thank them enough.
+
 ## References
 
 A lot has been taken from George Fairbanks Lecture and notes
