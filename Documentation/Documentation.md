@@ -1,5 +1,8 @@
 # Documentation
 
+“Documentation is like sex; when it’s good, it’s very, very good, and when it’s bad, it’s better than nothing.”
+
+
 1. I personally believe documentation is very important if you code is expected to run/support for a long time.
 2. The documentation should be either done in a platform that allows you to continuously edit, make comments etc.
 3. If you can't have a live way to handle like in confluence etc, and it is going to be a word document then ensure versioning is done through a version control like git, mercurial etc. This helps in understanding why certain design decision were taken.
